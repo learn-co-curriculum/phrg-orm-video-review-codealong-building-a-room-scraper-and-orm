@@ -6,3 +6,4 @@ This video review lesson covers many of the concepts that you've learned about i
 
 Any other comments or feedback you have? Raise an issue and let us know. 
 <p class='util--hide'>View <a href='https://learn.co/lessons/orm-video-review-codealong-building-a-room-scraper-and-orm'>ORM Video Review: Codealong- Building a Room Scraper and ORM </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Codealong, Building a Room Scraper and ORM- Overview</p>
